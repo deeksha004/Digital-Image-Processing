@@ -8,7 +8,7 @@ Make sure you have a working versions of skimage, PIL, openCV2, pandas, numpy, m
 
 ### Ubuntu 16.04
 
-To Implement Existing Superpixel Algorithms
+Follow the below steps to implement the SLIC Superpixel Algorithms Paper:
 
 1. Clone the repository
 2. Implement Existing Superpixel Algorithms
